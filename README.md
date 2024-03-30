@@ -14,7 +14,9 @@ cd Atero
 pip install -r requirements.txt
 
 4. Fill in the config:
+   
       4.1 IP: Ip of your server on Aternos.
+   
       4.2 server_id : You can find it on https://aternos.org/servers
         ![image](https://github.com/quickyyy/Atero/assets/53878872/63635140-78c2-42df-b9c9-4739a9b7a045)
    
