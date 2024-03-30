@@ -5,6 +5,12 @@ Atero is a launcher specifically designed to enable and maintain an online serve
 ## Another Language:
 [ReadMeRu.md](https://github.com/quickyyy/Atero/blob/main/READMERU.md)
 
+## Functions
+
+- Automatically start the server if it is disabled
+- Waiting if it is loading
+- Automatic maintenance of the server online
+
 ## Installation
 ```
 1. Clone the repository in your terminal:
